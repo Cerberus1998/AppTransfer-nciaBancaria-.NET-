@@ -1,7 +1,0 @@
-C:\Users\Lenovo\source\repos\AppBancaria\AppBancaria\bin\Debug\AppBancaria.exe.config
-C:\Users\Lenovo\source\repos\AppBancaria\AppBancaria\bin\Debug\AppBancaria.exe
-C:\Users\Lenovo\source\repos\AppBancaria\AppBancaria\bin\Debug\AppBancaria.pdb
-C:\Users\Lenovo\source\repos\AppBancaria\AppBancaria\obj\Debug\AppBancaria.csprojAssemblyReference.cache
-C:\Users\Lenovo\source\repos\AppBancaria\AppBancaria\obj\Debug\AppBancaria.csproj.CoreCompileInputs.cache
-C:\Users\Lenovo\source\repos\AppBancaria\AppBancaria\obj\Debug\AppBancaria.exe
-C:\Users\Lenovo\source\repos\AppBancaria\AppBancaria\obj\Debug\AppBancaria.pdb
